@@ -1,4 +1,4 @@
- #Sapphire
+# Sapphire
 
 Sapphire는 P3RID0T에서 개발중인 discord 봇입니다. discord.py 라이브러리를 사용합니다.
 
